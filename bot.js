@@ -248,7 +248,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "Rock Wins Bot",
+            botName: "UVB Bot",
             language: "portuguese",
             chatLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/pt-BR.json",
             scriptLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js",
@@ -256,7 +256,7 @@
             startupCap: 1, // 1-200
             startupVolume: 100, // 0-100
             startupEmoji: true, // true or false
-            autowoot: false,
+            autowoot: true,
             autoskip: true,
             smartSkip: true,
             cmdDeletion: true,
@@ -304,7 +304,7 @@
             opLink: null,
             rulesLink:"http://prnt.sc/c16kj6",
             regrasLink: "http://prnt.sc/c152aa",
-            themeLink: "Rock'n'roll, todos os subgêneros do rock",
+            themeLink: "Todos os generos são permitidos",
             fbLink: "http://bit.ly/2cxnE6a",
             youtubeLink: null,
             website: null,
